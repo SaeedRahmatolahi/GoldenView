@@ -1,0 +1,6 @@
+framework module GoldenView {
+  umbrella header "GoldenView-umbrella.h"
+
+  export *
+  module * { export * }
+}

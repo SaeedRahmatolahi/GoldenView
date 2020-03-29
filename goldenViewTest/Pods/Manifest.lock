@@ -1,0 +1,16 @@
+PODS:
+  - GoldenView (1.0.0)
+
+DEPENDENCIES:
+  - GoldenView (from `../GoldenView`)
+
+EXTERNAL SOURCES:
+  GoldenView:
+    :path: "../GoldenView"
+
+SPEC CHECKSUMS:
+  GoldenView: 9a512b299f4a161c38dfaaa5e23459368fd4fe31
+
+PODFILE CHECKSUM: 012a2f22e0c2d38e01d2a1dbb44ae58757f6f2a8
+
+COCOAPODS: 1.8.4
